@@ -1,6 +1,6 @@
 •👋 Hello, I’m @piyushmishra0620.
 
-•👀I’m interested in full-stack web-development.
+•👀I’m a full-stack web-developer.
 
 •💻I’m currently learning   web-development.
 
