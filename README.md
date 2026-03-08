@@ -2,7 +2,7 @@
 
 •👀I’m a Full-Stack Web Developer.
 
-•💻I’m currently learning AI/ML.
+•💻I’m currently learning ML.
 
 •😄 Pronouns: He/Him
 
